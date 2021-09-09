@@ -1,0 +1,21 @@
+
+header {
+  background-color: blue;
+  padding:30px;
+  text-align: center;
+}
+
+.info {
+  background-color: teal;
+  color: white;
+  padding: 10px;
+  text-align: center;  
+}
+
+
+.explaination{
+  background-color: blue;
+  color: Grey;
+  padding: 30px;
+  text-align: center;
+}
